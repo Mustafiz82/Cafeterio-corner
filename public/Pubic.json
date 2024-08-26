@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Chicken Shawarma Wrap",
+        "description": "Marinated chicken strips grilled to perfection, wrapped in a soft pita with garlic sauce, pickles, and fresh vegetables.",
+        "imageUrl": "https://www.shutterstock.com/image-photo/closeup-chicken-shawarma-wrap-lettuce-600nw-2493898897.jpg",
+        "rating": "5",
+        "price": "8.57",
+        "category": "Middle Eastern"
+    },
+    {
+        "name": "Lamb Kofta Kebab",
+        "description": "Seasoned ground lamb shaped into skewers and grilled over an open flame, served with flatbread and tzatziki sauce.",
+        "imageUrl": "https://media.istockphoto.com/id/1205499089/photo/kofta-kebab-of-minced-lamb-meat-roasted-on-skewers-with-spice-mix.jpg?s=612x612&w=0&k=20&c=5XxqcT8MQl2a3JS8uOa_FRdGCKA0ttcDhSefZ5bv1JM=",
+        "rating": "4",
+        "price": "10.99",
+        "category": "Mediterranean"
+    },
+    {
+        "name": "Beef Biryani",
+        "description": "Aromatic basmati rice cooked with tender beef, fragrant spices, and herbs, garnished with fried onions and cilantro.",
+        "imageUrl": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg",
+        "rating": "5",
+        "price": "12.50",
+        "category": "South Asian"
+    },
+    {
+        "name": "Falafel Plate",
+        "description": "Crispy chickpea patties served with hummus, tabbouleh, and warm pita bread.",
+        "imageUrl": "https://st.depositphotos.com/1373322/5125/i/450/depositphotos_51255899-stock-photo-falafel-on-lettuce-with-tzatziki.jpg",
+        "rating": "4",
+        "price": "7.25",
+        "category": "Middle Eastern"
+    },
+    {
+        "name": "Chicken Tikka Masala",
+        "description": "Grilled chicken pieces simmered in a rich, creamy tomato sauce, served with basmati rice.",
+        "imageUrl": "https://c8.alamy.com/comp/2T1HP5P/delicious-creamy-chicken-tikka-masala-surrounded-by-ingredients-close-up-in-a-bowl-on-the-table-horizontal-2T1HP5P.jpg",
+        "rating": "5",
+        "price": "9.75",
+        "category": "Indian"
+    },
+    {
+        "name": "Grilled Chicken Burger",
+        "description": "Juicy grilled chicken breast topped with lettuce, tomato, and a tangy sauce, served in a toasted bun.",
+        "imageUrl": "https://img.freepik.com/free-photo/grilled-beef-burger-with-tomato-bun-generated-by-ai_188544-18001.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1724025600&semt=ais_hybrid",
+        "rating": "5",
+        "price": "6.99",
+        "category": "Fast Food"
+    },
+    {
+        "name": "Spicy Chicken Sandwich",
+        "description": "Crispy fried chicken with a spicy coating, topped with pickles and mayo in a soft bun.",
+        "imageUrl": "https://bloximages.newyork1.vip.townnews.com/feastmagazine.com/content/tncms/assets/v3/editorial/9/53/953e54f0-3c88-11ee-9147-b3ed7122f2d1/64dd54dd35bec.image.jpg?resize=1200%2C800",
+        "rating": "4",
+        "price": "5.49",
+        "category": "Fast Food"
+    },
+    {
+        "name": "Chocolate Lava Cake",
+        "description": "Warm, gooey chocolate cake with a molten chocolate center, served with vanilla ice cream.",
+        "imageUrl": "https://c8.alamy.com/comp/HDMKXE/fondant-chocolate-cake-with-cherries-and-mint-close-up-on-a-plate-HDMKXE.jpg",
+        "rating": "5",
+        "price": "4.99",
+        "category": "Dessert"
+    },
+    {
+        "name": "Mango Lassi",
+        "description": "A refreshing yogurt-based drink blended with ripe mangoes and a hint of cardamom.",
+        "imageUrl": "https://www.shutterstock.com/image-photo/fresh-mango-lassi-glasses-on-260nw-2312893983.jpg",
+        "rating": "5",
+        "price": "3.50",
+        "category": "Beverage"
+    },
+    {
+        "name": "Vegetarian Pizza",
+        "description": "Crispy pizza crust topped with a variety of fresh vegetables, mozzarella cheese, and tomato sauce.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjtykSmgLVc9m0glUqmiezMoWRN5QR8KHD3g&s",
+        "rating": "4",
+        "price": "9.99",
+        "category": "Italian"
+    },
+    {
+        "name": "Fish and Chips",
+        "description": "Crispy battered fish fillets served with golden fries and tartar sauce.",
+        "imageUrl": "https://c8.alamy.com/comp/HYHPCW/traditional-british-food-fish-and-chips-with-green-peas-close-up-on-HYHPCW.jpg",
+        "rating": "5",
+        "price": "7.99",
+        "category": "Fast Food"
+    },
+    {
+        "name": "BBQ Chicken Wings",
+        "description": "Tender chicken wings coated in a smoky BBQ sauce, served with a side of ranch dressing.",
+        "imageUrl": "https://c8.alamy.com/comp/2JC0NBB/american-grilled-chicken-wings-with-alabama-white-bbq-sauce-close-up-in-a-plate-on-the-table-horizontal-2JC0NBB.jpg",
+        "rating": "4",
+        "price": "6.49",
+        "category": "Fast Food"
+    },
+    {
+        "name": "Cheesy Fries",
+        "description": "Crispy fries topped with melted cheese and jalapenos.",
+        "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/046/077/881/small_2x/immerse-yourself-in-cheesy-deliciousness-with-these-cheese-fries-featuring-a-generous-portion-of-golden-fries-smothered-in-a-melange-of-melted-cheeses-that-lend-a-luxurious-and-milky-photo.jpg",
+        "rating": "4",
+        "price": "4.25",
+        "category": "Fast Food"
+    },
+    {
+        "name": "Veggie Wrap",
+        "description": "A soft tortilla filled with grilled vegetables, hummus, and a drizzle of tahini sauce.",
+        "imageUrl": "https://www.culinaryhill.com/wp-content/uploads/2023/08/Ultimate-Veggie-Wrap-Culinary-Hill-1200x800-1.jpg",
+        "rating": "4",
+        "price": "5.99",
+        "category": "Fast Food"
+    },
+    {
+        "name": "Turkey Club Sandwich",
+        "description": "Sliced turkey, crispy bacon, lettuce, tomato, and mayo layered between toasted bread.",
+        "imageUrl": "https://static.vecteezy.com/system/resources/previews/039/625/418/non_2x/ai-generated-freshness-on-plate-grilled-meat-vegetable-stack-toasted-bread-generated-by-ai-photo.jpg",
+        "rating": "5",
+        "price": "7.50",
+        "category": "Fast Food"
+    },
+    {
+        "name": "Grilled Cheese Sandwich",
+        "description": "Golden brown bread filled with melted cheddar cheese, grilled to perfection.",
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/delish-greek-grilled-cheese-horizontal-1536154089.jpg",
+        "rating": "5",
+        "price": "4.50",
+        "category": "Comfort Food"
+    },
+    {
+        "name": "Chicken Quesadilla",
+        "description": "Grilled tortilla stuffed with chicken, cheese, and a mix of peppers and onions, served with salsa and sour cream.",
+        "imageUrl": "https://media.istockphoto.com/id/479319352/photo/quesadilla-with-vegetables-and-sauces-horizontal-top-view.jpg?s=612x612&w=0&k=20&c=-O8Sz0YOeYfd5WjhQodZugnCa-UjeU4jIROtA9FfbDk=",
+        "rating": "5",
+        "price": "6.99",
+        "category": "Mexican"
+    },
+    {
+        "name": "Garlic Breadsticks",
+        "description": "Soft breadsticks brushed with garlic butter and sprinkled with parmesan cheese.",
+        "imageUrl": "https://img.freepik.com/premium-photo/garlic-bread-sticks-delicious-baked-bakery-snack-with-seasoned-sauce-horizontal-plate_1014870-8066.jpg",
+        "rating": "4",
+        "price": "3.75",
+        "category": "Italian"
+    },
+    {
+        "name": "Veggie Burger",
+        "description": "A hearty plant-based patty topped with lettuce, tomato, and avocado, served in a toasted bun.",
+        "imageUrl": "https://thumbs.dreamstime.com/z/fast-food-court-horizontal-poster-veggie-burger-side-fries-diner-tray-table-ai-generative-309179343.jpg",
+        "rating": "5",
+        "price": "7.99",
+        "category": "Vegan"
+    },
+    {
+        "name": "Chicken Caesar Salad",
+        "description": "Crispy romaine lettuce, grilled chicken, croutons, and parmesan cheese, tossed in Caesar dressing.",
+        "imageUrl": "https://img.freepik.com/premium-photo/caesar-salad-black-plate-horizontal_210632-3606.jpg",
+        "rating": "5",
+        "price": "8.25",
+        "category": "Salads"
+    }
+]
